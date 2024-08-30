@@ -1,6 +1,7 @@
-# ${response.name}
+#   Title
+  ${licenseBadge}
  ## Description
-    ${response.description}
+  ${response.description}
 ## Table of Contents
    - [Installation](#installation)
    - [Usage](#usage)
@@ -9,17 +10,18 @@
    - [Tests](#tests)
    - [Questions](#questions)
 ## Installation
-    ${response.installation}
+  ${response.installation}
 ## Usage
-    ${response.usage}
+  ${response.usage}
 ## License
-    ${response.license}
+  ${licenseSection}
 ## Contributions 
-    ${response.contributions}
+  ${response.contributions}
 ## Tests
-    ${response.tests}
+  ${response.tests}
 ## Questions 
-    ${response.questions}
-    
+  Github - [${response.github}](github.com/${response.github})\n
+  Email -  [${response.email}](${response.email})
+  License -[${response.license}](${licenseLink}) 
 
     
